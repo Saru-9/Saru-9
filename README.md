@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Aditya Salunke.jpg" alt="Aditya Salunke Banner" width="100%" />
+  <img src="./Banner.png" alt="Saraswati Banner" width="100%" />
 </p>
 
 
