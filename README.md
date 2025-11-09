@@ -97,9 +97,9 @@
 
 ## 📬 How to Reach Me  
 
-[![Email](https://img.shields.io/badge/Email-adityassalunke2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityassalunke2004@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-adityassalunke2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraswatizerkunte@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Salunke-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-salunke-08124s)  
-[![Instagram](https://img.shields.io/badge/Instagram-_adi_08__-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_adi_08__)  
+[![Instagram](https://img.shields.io/badge/Instagram-_adi_08__-purple?style=for-the-badge&logo=instagram)](https://instagram.com/saru_zerkunte01)  
 
 
 ## 🤝 Let's Connect!  
