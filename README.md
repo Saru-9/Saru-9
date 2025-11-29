@@ -61,6 +61,21 @@
 
 ## 🌟 Featured Projects  
 
+### 🚗 Java Project — Smart Vehicle Parking & Slot Management System  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing%20GUI-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+- Desktop application to manage and monitor parking slot availability in real-time  
+- Built using **Java Swing, JDBC & MySQL**  
+- Features include: Add Slot, Book Slot, Release Slot, Live Status Table  
+- Designed to improve parking space utilization & reduce manual effort
+
+📌[![Parking System](https://img.shields.io/badge/GitHub-Parking--Management--System-000?style=for-the-badge&logo=github)](https://github.com/Saru-9/Smart-Vehicle-Parking-Management-System)
+
+
 
 ## 📊 Top Languages  
 
