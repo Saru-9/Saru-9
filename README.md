@@ -10,7 +10,7 @@
 ## 🤖 About Me  
 
 - 🎓 Pursuing **B.E. in Information Technology** (Graduating 2027)  
-- 🤖 **Aspiring Data Scientist** passionate about AI, Machine Learning, and Data-Driven Solutions  
+- 🤖 **Java Devloper** passionate about AI, Machine Learning, and Data-Driven Solutions  
 - 💡 Built innovative projects like:  
             - 🏠 OBJECT DETECTION USING AI  
 - 💻 Skilled in **Python, HTML, CSS, JAVA, Cloud Integration**  
@@ -60,33 +60,6 @@
 
 
 ## 🌟 Featured Projects  
-
-### 🍴 Menu Insight — QR-Based Dine-In System  
-<p align="center">
-  <img src="https://img.shields.io/badge/QR-Based–Ordering-00ADD8?style=for-the-badge&logo=qr-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web–Frontend-4285F4?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend–Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-- Scan a table's unique QR code to access menus, place orders, and pay—all from your phone.  
-- Provides a contactless dining experience that saves time and increases efficiency for restaurants.
-
-📌 [![Menu Insight](https://img.shields.io/badge/GitHub-Menu--Insight-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/Menu-Insight)
-
----
-
-###  🏠 IoT Project — Smart Home Automation & Energy Consumer Tracker  
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-</p>
-
-- A smart switchboard using NodeMCU and relays, with real-time energy monitoring via PZEM004T.  
-- Logs power usage to **Google Sheets** for easy tracking and analytics.  
-- Helps in optimizing energy consumption and enables future smart home enhancements.
-
-📌[![IoT Project](https://img.shields.io/badge/GitHub-IoT--Project-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/IoT-Project)
 
 
 ## 📊 Top Languages  
